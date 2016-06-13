@@ -1,0 +1,14 @@
+{
+  "name": "dock-worker",
+  "version": "0.0.1",
+  "description": "Manage a pool of docker worker containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dockerode-bluebird": "^1.0.4"
+  }
+}
